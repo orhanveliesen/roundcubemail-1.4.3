@@ -1,0 +1,3 @@
+[submodule "plugins/hide_sender_info"]
+	path = plugins/hide_sender_info
+	url = git@github.com:orhanveliesen/hide_sender_info.git
